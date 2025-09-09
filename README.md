@@ -1,2 +1,3 @@
-# EU-QUERO-CAGAR
-Eu quero CAGAR
+return {
+    ["sr_greg81"] = true,
+}
